@@ -13,7 +13,7 @@ tR += yesterdayLink + " · " + tomorrowLink;
 
 
 ## 🌱Quick capture
-
+- [ ]
 
 ## 📖 Journal
 
