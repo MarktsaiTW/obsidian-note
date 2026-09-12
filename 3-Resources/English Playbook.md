@@ -10,4 +10,4 @@
 | 慢慢來           | Take your time              | Take your time, we still have some time to prepare.       |
 | 令人垂涎三尺的       | Mouth-watering              | The night market is  full of mouth-watering street food.  |
 | 表達幫助很大        | Super helpful               | Thank you, that was super helpful.                        |
-|               |                             |                                                           |
+| 網路上的瘋傳        | Went viral                  | This meme went viral on X.                                |
