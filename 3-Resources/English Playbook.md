@@ -12,3 +12,4 @@
 | 表達幫助很大        | Super helpful               | Thank you, that was super helpful.                                                  |
 | 網路上的瘋傳        | Went viral                  | This meme went viral on X.                                                          |
 | 形容毫髮無傷        | No worse for wear           | I dropped my phone from the second floor, but surprisingly, it's no worse for wear. |
+| 祝你好運          | Break a leg                 | Good luck with your interview. Break a leg!                                         |
