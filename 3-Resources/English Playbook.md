@@ -13,3 +13,7 @@
 | 網路上的瘋傳        | Went viral                  | This meme went viral on X.                                                          |
 | 形容毫髮無傷        | No worse for wear           | I dropped my phone from the second floor, but surprisingly, it's no worse for wear. |
 | 祝你好運          | Break a leg                 | Good luck with your interview. Break a leg!                                         |
+| 我同意你          | You can say that again      | Yes, you can say that again.                                                        |
+| ...等等         | and so on                   | I have egg, vagetable, meat and so on.                                              |
+| 曾經擁有過         | used to have                | Actually, I used to have a red poodle name sugar.                                   |
+| 融化我的心         | melt my heart               | Seeing a dog wagging its tail just melts my heart.                                  |
